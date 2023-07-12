@@ -1,0 +1,69 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+#destiny {
+    width: 626px;
+    height: 486px;
+    margin: 64px auto 41px;
+}
+
+h1 {
+    color: #3F3D56;
+    width: 494px;
+    margin: 0 auto;
+    font-size: 32px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+p {
+    margin-top: 16px;
+    color: #828282;
+    font-weight: normal;
+}
+
+#destiny p span {
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+#footer {
+    text-align: center;
+    width: 1024px;
+    height: 199px;
+    margin: auto;
+}
+
+.line {
+    text-align: center;
+    width: 391px;
+    height: 0px;
+    border: 1px #ECEFF2 solid;
+    margin: 64px auto 16px;
+}
+
+
+#footer a {
+    color: #3F3D56;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#footer a+a {
+    margin-left: 42px;
+}
+
+.wave {
+    margin: 40px auto;
+    width: 1024px;
+    height: 104px;
+}
